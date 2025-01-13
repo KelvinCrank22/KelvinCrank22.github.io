@@ -1,0 +1,43 @@
+
+/* page styling */
+body {
+    background-color: black;
+    color: white;
+}
+/* main body styling */
+p {
+    color: white;
+}
+ins {
+    color: black;
+    background-color: white;
+    font-style: none;
+    text-decoration: none;
+    border: 2px solid white;
+    border-style: double;
+    border-color: black;
+}
+pre {
+    text-indent: 2px;
+}
+/* links*/
+a:link {
+    color: #00FF00;
+    text-decoration: none;
+}
+a:visited {
+    color: #006000;
+}
+a:hover {
+    color: #000000;
+    background-color: #00FF00;
+}
+a:active {
+    color: #00FF00;
+    background-color: #00FF00;
+}
+/* table formatting; might remove */
+table {
+    border: none;
+    padding: 2px;
+}
